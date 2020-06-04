@@ -1,4 +1,4 @@
-This ccontains the various operations performed on the iris dataset which contains 4 features:
+This contains the various operations performed on the iris dataset which contains 4 features:
 1. Petal Length (in cm)
 2. Petal Width (in cm)
 3. Sepal Length (in cm)
