@@ -1,0 +1,1 @@
+In this , the concentric circles dataset is used for divinding the the dataset into cross validation along with test and train splits. This represents a basic concept of cross validation alongwith the 10-fold cross validation. 
